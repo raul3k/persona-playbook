@@ -1,0 +1,43 @@
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+
+# Editor settings
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# VSCode settings (opcional)
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Node-related folders (caso crie exemplos futuramente)
+node_modules/
+
+# Python cache (caso gere scripts auxiliares)
+__pycache__/
+
+# Markdown preview caches (alguns plugins geram)
+*.cache
+.cache/
+
+# Output of static site generators (caso use futuramente)
+public/
+dist/
+build/
+
+# Logs
+*.log
+
+# Temp files
+tmp/
+temp/
+
+# ChatGPT / AI metadata export folders (comuns em workflows)
+chatgpt-exports/
+llm-output/
