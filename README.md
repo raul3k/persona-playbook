@@ -137,10 +137,12 @@ Localizadas em `/personas`:
 ## 2.2 Lista de Flows
 
 Localizadas em `/flows`:
-
+* [Index](flows/README.md)
 * [@flow_strict](flows/flow_strict.md)
 * [@flow_auto](flows/flow_auto.md)
 * [@flow_mix](flows/flow_mix.md)
+
+No index temos a explicação e exemplos de como utilizar cada flow.
 
 ## 2.3 Descrição breve
 
